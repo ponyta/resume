@@ -1,0 +1,66 @@
+Chun Li
+
+-------------------------------------------
+Contact
+
+Markham, Canada Area
+(226) 606-6614
+chunli.developer@gmail.com
+
+-------------------------------------------
+Experience
+
+- Software Engineer at Yext
+05/2015 - 08/2015
+Helped write scripts that would migrate subscriptions from an internal subscription software system to a third party system.
+Helped maintain internal software systems responsible for billing and subscription services.
+
+- Backend Engineer at Reflektion
+09/2014 - 12/2014
+Built a software pipeline designed to process large amounts of data to provide real time analytics.
+Utilized distributed computing systems such as Storm and Cassandra.
+Worked with NoSQL databases such as MongoDB and Redis.
+
+- Software Engineer at Yext
+01/2014 - 04/2014
+Developed Pages, an enterprise software solution for creating dynamic web pages.
+Developed server-side software in Go using the Martini web framework.
+Developed front-end code using modern web developer tools such as Closure templates, Sass, and the Closure compiler.
+
+- Java Programmer at N8 Identity Inc.
+04/2013 - 08/2013
+Developed ELM, an enterprise software solution to identity access management for companies.
+Developed server-side software using various Java enterprise tools such as Spring, and JUnit.
+Worked on front-end web components with JSF and third party libraries such as Primefaces.
+
+- Intern at Sunnybrook Health Sciences Centre
+07/2012 - 08/2012
+Sped up an image reconstruction algorithm used to image the brain by using CUDA to parallelize computation on a GPU.
+
+- Intern at Sunnybrook Health Sciences Centre
+07/2011 - 08/2011
+Developed an interface and control system in MATLAB for a MRI imaging system to be used in a cardiac ablation treatment experiment.
+
+-------------------------------------------
+Education
+
+University of Waterloo
+Bachelor of Computer Science, Computer Science, 2012 - 2017
+
+Marc Garneau C. I.
+2008 - 2012
+
+Royal Conservatory of Music
+ARCT Performer's Diploma in Piano
+
+-------------------------------------------
+Skills
+
+Languages: Java, Go, Python
+Web Technologies: HTML/CSS/JS, JQuery, Sass
+Tools: vim, git, bash, nginx, SQL
+
+-------------------------------------------
+LinkedIn
+
+https://www.linkedin.com/in/chun-li-bba50763
